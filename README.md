@@ -178,6 +178,8 @@ Tambien podemos tener diferentes dispositivos conectados entre si:
 
 ---
 
+[Regresar](#contenido)
+
 ## Transmisión de datos
 
 ### Tipos de datos
@@ -197,6 +199,8 @@ Todo es a punta de bits, y la representación es con **ASCII**, donde cada carac
 - Señales inalámbricas: La transmisión se realiza por medio de ondas infrarrojas, de microondas o de radio por el aire.
 
 ---
+
+[Regresar](#contenido)
 
 ## Ancho de Banda
 
@@ -226,6 +230,8 @@ En internet el rendimiento no puede ser mas rapido que el enlace más lento de l
 > Necesitas estar cerca del WiFi para poder probarlo
 
 ---
+
+[Regresar](#contenido)
 
 ## Clientes y Servidores
 
@@ -281,6 +287,8 @@ Dependiendo del negocio y función
 
 ---
 
+[Regresar](#contenido)
+
 ## Componentes de red
 
 ### Infraestructura de la red
@@ -322,6 +330,8 @@ Un dispositivo final (o host) es el origen o el destino de un mensaje transmitid
   - **Cliente:** Solicita y utiliza los servicios que ofrece un servidor.
 
 ---
+
+[Regresar](#contenido)
 
 ## Opciones de Conectividad al ISP
 
@@ -378,6 +388,8 @@ Tambien estan:
 
 ---
 
+[Regresar](#contenido)
+
 ## Redes Inalámbricas
 
 ### Tipos de redes inalámbricas
@@ -391,6 +403,8 @@ Tambien estan:
 > [!NOTE]
 > El tipo más común de red de celular es **GSM**. Las abreviaturas 3G, 4G, 4G-LTE y 5G se utilizan para describir **redes de celular mejoradas** que estan optimizadas para la transmisión rapida de datos.
 ---
+
+[Regresar](#contenido)
 
 ## Conectividad de dispositivos móviles
 
@@ -413,6 +427,8 @@ Tambien estan:
 > **SSID** es el nombre asignado a una red inalámbrica *(Identificador de conjunto de servicios)*
 
 ---
+
+[Regresar](#contenido)
 
 ## Crear una red doméstica
 
@@ -452,6 +468,8 @@ Ademas de un enrutador integrado, muchos dispositivos podrían conectarse a una 
 
 ---
 
+[Regresar](#contenido)
+
 ## Tecnologías de Red en el hogar
 
 ### Frecuencias Inalámbricas LAN
@@ -470,6 +488,8 @@ Protocolo cableado mas común es el **protocolo Ethernet**, permite que se comun
 - **cable de fibra óptica:** puede ser de vidrio o plástico con un diámetro similar al de un cabello humano y puede **transmitir información digital a velocidades muy rápidas** a traves de grandes distancias. Tienen un **ancho de banda muy alto**, lo que permite el paso de grandes cantidades de datos
 
 ---
+
+[Regresar](#contenido)
 
 ## Estándares Inalámbricos
 
@@ -492,6 +512,8 @@ Configuración básica en el **Packet Tracer**
 - **Difusión de SSID**: Determina si el SSID se transmitirá a todos los disposiivos dentro del alcance. De manera predeterminada está **Activado**
 
 ---
+
+[Regresar](#contenido)
 
 ## Configurar un enrutador doméstico
 
@@ -520,6 +542,8 @@ La decisión respecto de quién puede acceder a su red doméstica debe tomarse s
 > **Filtrado MAC**: medida de seguridad de red que permite o bloquea el acceso de dispositivos a una red según su dirección MAC única
 
 ---
+
+[Regresar](#contenido)
 
 ## Principios de Comunicación
 
@@ -552,6 +576,8 @@ Caracteristicas de los protocolos de red:
 
 ---
 
+[Regresar](#contenido)
+
 ## Estándares de comunicación
 
 ### Internet y Estándares
@@ -573,6 +599,8 @@ Otras organizaciones son:
 - **TIA**
 
 ---
+
+[Regresar](#contenido)
 
 ## Modelos de Comunicación de Red
 
@@ -635,6 +663,8 @@ Las similitudes clave se encuentran en la capa de transporte y en la capa de red
 
 ---
 
+[Regresar](#contenido)
+
 ## Medios de red
 
 ### Tres tipos de medios
@@ -669,6 +699,8 @@ Los cuatro criterios principales para elegir los medios de red son:
 
 ---
 
+[Regresar](#contenido)
+
 ## La capa de Acceso
 
 ### Encapsulación y la Trama de Ethernet
@@ -698,6 +730,8 @@ El proceso de colocar el formato al mensaje *(la carta)* dentro de otro proceso 
 
 ---
 
+[Regresar](#contenido)
+
 ## Tablas de direcciones MAC
 
 **¿Cómo el switch construye estas tablas?**
@@ -719,6 +753,8 @@ Y asi va llenando la tabla de direcciones MAC
 
 
 ---
+
+[Regresar](#contenido)
 
 ## Protocolo de Internet
 
@@ -764,6 +800,8 @@ Entonces tenemos dos componentes en una IPv4, pero ademas tenemos una **Mascara 
 - Los hosts que esten en la misma red podran comunicarse entre si, pero **no podran con otra red lógica sin un router**
 
 ---
+
+[Regresar](#contenido)
 
 ## IPv4 y Segmentación de redes
 
@@ -905,6 +943,8 @@ Las redes las puedes dividir por:
 
 ---
 
+[Regresar](#contenido)
+
 ## Formatos y Reglas de Direccionamiento IPv6
 
 ### Problemas con IPv4
@@ -973,6 +1013,8 @@ Tenemos esta IPv6 `2001 : 0db8 : acad : a088 : 0000 : 0000 : 7000 : 0123`
 
 ---
 
+[Regresar](#contenido)
+
 ## Direccionamiento Dinámico con DHCP
 
 ### Direccionamiento Estático y Dinámico
@@ -1039,6 +1081,8 @@ En muchas redes domésticas o empresas pequeñas usan un router y modem:
 
 ---
 
+[Regresar](#contenido)
+
 ## Puertas de enlace a otras redes
 
 ### Límites de red
@@ -1073,6 +1117,8 @@ En muchas redes domésticas o empresas pequeñas usan un router y modem:
 
 ---
 
+[Regresar](#contenido)
+
 ## El proceso ARP
 
 ### MAC e IP
@@ -1095,7 +1141,7 @@ Cuando esta en una red remota, la dirección MAC de destino será la dirección 
 
 **Ejemplo:**
 
-![mac-ip-ej1](mac-ip-ej1.png)
+![mac-ip-ej1](./images/mac-ip-ej1.png)
 
 En este ejemplo, PC1 desea enviar un paquete a PC2. PC2 se encuentra en una red remota. Dado que la dirección IPv4 de destino no está en la misma red local que PC1, la dirección MAC de destino es la del gateway predeterminado local en el router.
 
@@ -1103,13 +1149,13 @@ Los routers examinan la dirección IPv4 de destino para determinar la mejor ruta
 
 En nuestro ejemplo, R1 ahora encapsularía el paquete con la nueva información de dirección de Capa 2, como se muestra en la figura.
 
-![mac-ip-ej2](mac-ip-ej2.png)
+![mac-ip-ej2](./images/mac-ip-ej2.png)
 
 La nueva dirección MAC de destino sería la de la interfaz R2 G0/0/1 y la nueva dirección MAC de origen sería la de la interfaz R1 G0/0/1.
 
 A lo largo de cada enlace de una ruta, un paquete IP se encapsula en una trama. El trama es específico de la tecnología de enlace de datos asociada a ese vínculo, como Ethernet. Si el dispositivo del siguiente salto es el destino final, la dirección MAC de destino será la del NIC de Ethernet del dispositivo, como se muestra en la figura.
 
-![mac-ip-ej3](mac-ip-ej3.png)
+![mac-ip-ej3](./images/mac-ip-ej3.png)
 
 ¿Cómo se asocian las direcciones IP de los paquetes IP en un flujo de datos con las direcciones MAC en cada enlace a lo largo de la ruta hacia el destino? Para los paquetes IPv4, esto se realiza a través de un proceso llamado **Protocolo de resolución de direcciones (ARP)**. Para los paquetes IPv6, el proceso es **ICMPv6 Neighbor Discovery (ND).**
 
@@ -1146,6 +1192,8 @@ El host emisor puede utilizar un protocolo IPv4 llamado **Protocolo de Resoluci�
 > La dirección MAC de destino de difusión Ethernet es `FFFF.FFFF.FFFF` en hexadecimal
 
 ---
+
+[Regresar](#contenido)
 
 ## Enrutamiento entre redes
 
@@ -1280,6 +1328,8 @@ En la mayoría de las situaciones queremos que nuestros dispositivos puedan cone
 
 ---
 
+[Regresar](#contenido)
+
 ## TCP UDP
 
 > **TCP**: Transmision Control Protocol
@@ -1356,6 +1406,8 @@ netstat
 ```
 
 ---
+
+[Regresar](#contenido)
 
 ## Servicios de la Capa de Aplicación
 
@@ -1560,6 +1612,8 @@ SSH es mas seguro que Telnet
 
 ---
 
+[Regresar](#contenido)
+
 ## Utilidades de Prueba de red
 
 ### Comandos de solución de problemas
@@ -1643,3 +1697,5 @@ Options:
  
 C:\>
 ```
+
+[Regresar](#contenido)
